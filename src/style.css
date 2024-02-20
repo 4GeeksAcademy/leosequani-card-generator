@@ -1,1 +1,26 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: green;
+}
+.card {
+  background-color: white;
+  text-align: center;
+  height: 350px;
+  width: 250px;
+}
+.top-left-icon {
+  font-size: 80px;
+  color: red;
+  text-align: start;
+  padding-left: 4px;
+}
+.numMiddle {
+  font-size: 100px;
+  text-align: center;
+}
+.top-right-icon {
+  font-size: 80px;
+  color: red;
+  text-align: end;
+  padding-top: 45px;
+  padding-right: 4px;
+}
